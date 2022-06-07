@@ -1,0 +1,57 @@
+{
+  "lista": {
+    "cabecera": {
+      "dato": {
+        "Titulo": "Tha Haiting Game",
+        "Año": 2021,
+        "Calificacion": "13+",
+        "Estreno": "2021, Dec",
+        "Duracion": "150 min",
+        "Genero": "Comedia Romantica",
+        "Director": "Lucy Hale",
+        "Guionistas": "Lucy Hale",
+        "Actores": "Lucy Hale",
+        "Trama": "Dos compañeros de trabajo descubren que del odio al amor solo hay un paso",
+        "Idioma": "Ingles",
+        "Pais": "Estados Unidos",
+        "Premios": "N/A",
+        "Publicacion": "cuevana.com",
+        "Ratings": {
+          "cola": {
+            "tope": 3,
+            "cabecera": {
+              "dato": {
+                "Source": "IMDB",
+                "Puntuacion": "54"
+              },
+              "siguiente": {
+                "dato": {
+                  "Source": "Tomatoes",
+                  "Puntuacion": "74%"
+                },
+                "siguiente": {
+                  "dato": {
+                    "Source": "Metascore",
+                    "Puntuacion": "88"
+                  }
+                }
+              }
+            },
+            "size": 3
+          }
+        },
+        "Metascore": "88",
+        "IMDB-Rating": "54",
+        "IMDB-Votes": "650,596",
+        "IMDB-ID": "tt38",
+        "Tipo": "Pelicula",
+        "DVD": "22 Aug 2021",
+        "BoxOffice": "389,813,1001",
+        "Produccion": "N/A",
+        "WebSite": "N/A",
+        "Response": "True"
+      }
+    },
+    "size": 1
+  }
+}
