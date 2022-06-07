@@ -1,0 +1,57 @@
+{
+  "lista": {
+    "cabecera": {
+      "dato": {
+        "Titulo": "Orgullo y Prejuicio",
+        "Año": 2005,
+        "Calificacion": "B",
+        "Estreno": "16 de septiembre de 2005 en Reino Unido",
+        "Duracion": "129 minutos",
+        "Genero": "Drama romantico",
+        "Director": "Joe Wright",
+        "Guionistas": "Deborah Moggach",
+        "Actores": "Keira Knigtley y Matthew Macfadyen",
+        "Trama": "La historia comienza con las cinco hermanas Bennet, todas criadas por su madre, cuando a a Netherfield llega el Sr. Charles Bingley con su amigo Sr. Darcy, la vida de las dos mayores hermanas Bennet cambia.",
+        "Idioma": "Ingles",
+        "Pais": "Reino Unido",
+        "Premios": "Mejor banda sonora, mejor actriz, mejor dirección, mejor pelicula",
+        "Publicacion": "Universal Pictures",
+        "Ratings": {
+          "cola": {
+            "tope": 3,
+            "cabecera": {
+              "dato": {
+                "Source": "Internet Movie Database",
+                "Puntuacion": "7.8"
+              },
+              "siguiente": {
+                "dato": {
+                  "Source": "Rotten Tomatoes",
+                  "Puntuacion": "87%"
+                },
+                "siguiente": {
+                  "dato": {
+                    "Source": "Metacritic",
+                    "Puntuacion": "82%"
+                  }
+                }
+              }
+            },
+            "size": 3
+          }
+        },
+        "Metascore": "82%",
+        "IMDB-Rating": "7.8",
+        "IMDB-Votes": "288.612",
+        "IMDB-ID": "tt389",
+        "Tipo": "Pelicula",
+        "DVD": "N/A",
+        "BoxOffice": "25.458.400 ",
+        "Produccion": "Adaptación de la novela Orgullo y Prejuicio",
+        "WebSite": "N/A",
+        "Response": "N/A"
+      }
+    },
+    "size": 1
+  }
+}
